@@ -7,17 +7,21 @@
 
 ## Network
 - Region: Frankfurt, DE
-- Public IP: 139.162.128.64
+- Public IP: 172.104.157.225
 
 ## Operating System
 - Distribution: Ubuntu 24.04 LTS
 - Volumes: 0
+
+- use default cli commands, do not use nano or vim to create files
 
 # git config
 - user.name: Sakis Tosounidis
 - user.email: sakis.tosounidis@gmail.com
 - github username: sakis5668
 - github repo name: Cursor Hello World
+- github repo url: https://github.com/sakis5668/cursor-hello-world
+
 
 ## Services
 - Web Server: nginx
